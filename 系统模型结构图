@@ -1,75 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T09:35:41.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="7d6cZvKjR5cVB0IchCuf" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-20T21:58:19.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="nojlOClf5lwaYm6-kKoT" version="17.4.6" type="github">
   <diagram id="7z0fqWYbI7LfY3zVcaty" name="Page-1">
-    <mxGraphModel dx="652" dy="335" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="390" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-19" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-19" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="81" y="138" width="483" height="347" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="R_Ts2zGX-gU84koKa1KY-12" target="R_Ts2zGX-gU84koKa1KY-13">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="R_Ts2zGX-gU84koKa1KY-12" target="R_Ts2zGX-gU84koKa1KY-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="R_Ts2zGX-gU84koKa1KY-13" target="R_Ts2zGX-gU84koKa1KY-14">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="R_Ts2zGX-gU84koKa1KY-13" target="R_Ts2zGX-gU84koKa1KY-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="R_Ts2zGX-gU84koKa1KY-14" target="R_Ts2zGX-gU84koKa1KY-15">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="R_Ts2zGX-gU84koKa1KY-14" target="R_Ts2zGX-gU84koKa1KY-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="R_Ts2zGX-gU84koKa1KY-14" target="R_Ts2zGX-gU84koKa1KY-23">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="R_Ts2zGX-gU84koKa1KY-14" target="R_Ts2zGX-gU84koKa1KY-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-20" value="&lt;font style=&quot;font-size: 11px&quot;&gt;基于深度学习的轴承剩余寿命预测系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-20" value="&lt;font style=&quot;font-size: 11px&quot;&gt;基于深度学习的轴承剩余寿命预测系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="235" y="149" width="214" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="R_Ts2zGX-gU84koKa1KY-21" target="R_Ts2zGX-gU84koKa1KY-12">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="R_Ts2zGX-gU84koKa1KY-21" target="R_Ts2zGX-gU84koKa1KY-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-15" value="性能测试与评估模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=1;" vertex="1" parent="1">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-15" value="性能测试与评估模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="389" y="407" width="140" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-21" value="轴承振动信号数据集" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;shadow=1;" vertex="1" parent="1">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-21" value="轴承振动信号数据集" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="128.5" y="198" width="142" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-23" value="预测结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;shadow=1;" vertex="1" parent="1">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-23" value="预测结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="388" y="198" width="142" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-56" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-56" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="101" y="259" width="197" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="R_Ts2zGX-gU84koKa1KY-56">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" parent="R_Ts2zGX-gU84koKa1KY-56" vertex="1">
           <mxGeometry width="197" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-47" value="基于小波包分解降噪处理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="R_Ts2zGX-gU84koKa1KY-56">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-47" value="基于小波包分解降噪处理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;fillColor=#FFFFFF;strokeColor=#6c8ebf;" parent="R_Ts2zGX-gU84koKa1KY-56" vertex="1">
           <mxGeometry x="14" y="31.5" width="169" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-48" value="&lt;span style=&quot;font-size: 12px&quot;&gt;数据预处理模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=11;" vertex="1" parent="R_Ts2zGX-gU84koKa1KY-56">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-48" value="&lt;span style=&quot;font-size: 12px&quot;&gt;数据预处理模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=11;" parent="R_Ts2zGX-gU84koKa1KY-56" vertex="1">
           <mxGeometry x="40" y="3" width="117" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-57" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-57" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="101" y="374" width="197" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;shadow=1;" vertex="1" parent="R_Ts2zGX-gU84koKa1KY-57">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;shadow=1;" parent="R_Ts2zGX-gU84koKa1KY-57" vertex="1">
           <mxGeometry width="197" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-49" value="基于集合模态分解优化的特征提取方法" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="R_Ts2zGX-gU84koKa1KY-57">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-49" value="基于变分模态分解优化的特征提取方法" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;fillColor=#FFFFFF;strokeColor=#6c8ebf;" parent="R_Ts2zGX-gU84koKa1KY-57" vertex="1">
           <mxGeometry x="15" y="33" width="169" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-50" value="&lt;span style=&quot;font-size: 12px&quot;&gt;特征提取与融合模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=11;" vertex="1" parent="R_Ts2zGX-gU84koKa1KY-57">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-50" value="&lt;span style=&quot;font-size: 12px&quot;&gt;特征提取与融合模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=11;" parent="R_Ts2zGX-gU84koKa1KY-57" vertex="1">
           <mxGeometry x="42" y="3" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-58" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-58" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="377" y="256" width="164" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;shadow=1;" vertex="1" parent="R_Ts2zGX-gU84koKa1KY-58">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;shadow=1;" parent="R_Ts2zGX-gU84koKa1KY-58" vertex="1">
           <mxGeometry width="164" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-52" value="基于改进的Bi-LSTM剩余寿命预测方法" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="R_Ts2zGX-gU84koKa1KY-58">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-52" value="基于Bi-LSTM的剩余寿命预测方法" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;fillColor=#FFFFFF;strokeColor=#6c8ebf;" parent="R_Ts2zGX-gU84koKa1KY-58" vertex="1">
           <mxGeometry x="14.25" y="37" width="135.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="R_Ts2zGX-gU84koKa1KY-53" value="&lt;span style=&quot;font-size: 12px&quot;&gt;剩余寿命预测模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=11;" vertex="1" parent="R_Ts2zGX-gU84koKa1KY-58">
+        <mxCell id="R_Ts2zGX-gU84koKa1KY-53" value="&lt;span style=&quot;font-size: 12px&quot;&gt;剩余寿命预测模块&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=11;" parent="R_Ts2zGX-gU84koKa1KY-58" vertex="1">
           <mxGeometry x="27" y="4" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
